@@ -45,6 +45,18 @@ const callGenerateEndpoint = async () => {
           </div>
         </div>
 
+        <div className="badge-container grow">
+        <a
+          href="https://www.saisumant.com"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <div className="badge">
+            <p>built by Sai Sumant Kancharla</p>
+          </div>
+        </a>
+      </div>
+
         <div className="prompt-container">
   <textarea
     placeholder="start typing here"
